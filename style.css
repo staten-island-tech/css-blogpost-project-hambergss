@@ -5,11 +5,11 @@ html, body, *{
     box-sizing: border-box;
 }
 body {
-    background-color:
+    background-color: #rgb
 }
 
 li {
-    color: white;
+    color: rgb(255, 255, 255);
 }
 .first {
     color: purple
