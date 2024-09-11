@@ -7,17 +7,18 @@ body,
   box-sizing: border-box;
 }
 body {
-  background-color: #rgb;
+  background-color:blanchedalmond
 }
 
 li {
-  color: rgb(255, 255, 255);
-}
-.first {
-  color: purple;
+
+  color:aquamarine;
 }
 #second {
-  color: blue;
+  color: rgb(255, 103, 255);
+}
+#third {
+  color: rgb(92, 92, 255);
 }
 h1 {
   font-size: 32px;
