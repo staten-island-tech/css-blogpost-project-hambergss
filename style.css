@@ -7,12 +7,11 @@ body,
   box-sizing: border-box;
 }
 body {
-  background-color:#614539;
+  background-color: #d7e3fc;
 }
 
 li {
-
-  color:#00796b;
+  color: #00796b;
 }
 #second {
   color: rgb(255, 103, 255);
@@ -21,7 +20,7 @@ li {
   color: rgb(92, 92, 255);
 }
 h1 {
-  font-size: 32px;
+  font-size: 100px;
   text-align: center;
 }
 .post-img {
@@ -29,11 +28,23 @@ h1 {
   height: 50%;
   /*object fit fixes aspect ratio of image if needed*/
 }
+
 .post {
-  height: 450px;
-  width: 450px;
-  background-color:#af5427;
-  margin: 150px auto;
-  padding: 0px;
-  border-radius: 40px;
+  height: 610px;
+  width: 1400px;
+  background-color: #99c1de;
+  margin: 200px auto;
+  padding-block: 30px;
+  border-radius: 60px;
+
 }
+
+#post {
+  height: 550px;
+  width: 1350px;
+  background-color: #bcd4e6;
+  margin: 0px auto;
+  padding: 0px;
+  border-radius: 60px;
+}
+ 
